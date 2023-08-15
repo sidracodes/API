@@ -1,1 +1,2 @@
-dynamic segment api [name]
+dynamic segment api / generate dynamic params :
+[name]
