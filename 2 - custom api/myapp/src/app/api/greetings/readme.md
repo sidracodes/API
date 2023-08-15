@@ -1,1 +1,2 @@
-dynamic segments
+dynamic segment api
+[name]
